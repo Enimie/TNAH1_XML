@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des idées reçues</title>
+            <author>Gustave Flaubert</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Exercice pour l'EnC</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>D'après l'édition de <bibl>L. Conard, 1910 (p. 415-452)</bibl>.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>LE DICTIONNAIRE DES IDÉES REÇUES</titlePart>
+            </docTitle>
+            <!--  Rq: les trois éléments de citations: (voir le module 3): -->
+            <!--  1. <q> = (quoted) contains material which is distinguished from the surrounding text using quotation marks or a similar method, for any one of a variety of reasons including, but not limited to: direct speech or thought, technical terms or jargon, authorial distance, quotations from elsewhere, and passages that are mentioned but not used.-->
+            <!--2. <quote> (quotation) contains a phrase or passage attributed by the narrator or author to some agency external to the text-->
+            <!-- 3. <cit> (cited quotation) contains a quotation from some other document, together with a bibliographic reference to its source-->
+            <epigraph>
+               <cit>
+                  <quote rend="italics">Vox populi, vox Dei.</quote>
+                  <bibl><author> Sagesse des nations.</author></bibl>
+               </cit>
+            </epigraph>
+            <epigraph>
+               <cit>
+                  <quote rend="italics">Il y a à parier que toute idée publique, toute convention reçue, est une
+                     sottise, car elle a convenu au plus grand nombre.</quote>
+                  <bibl><author> Chamfort,</author><title> Maximes.</title></bibl>
+               </cit>
+            </epigraph>
+         </titlePage>
+      </front>
+      <body>
+         <div1 type="partie">
+            <!-- il y a d'autre sous-parties ensuite -->
+            <head> LE CATALOGUE DES OPINIONS CHIC.</head>
+            <div2>
+               <head>A</head>
+               <entry>
+                  <form>Académie française.</form>
+                  <def>La dénigrer, mais tâcher d’en faire partie si on peut. </def>
+               </entry>
+               <entry>
+                  <form>Agriculture.</form>
+                  <def> Manque de bras.</def>
+               </entry>
+               <entry>
+                  <form>Affaires (Les)</form>
+                  <def>Passent avant tout. — Une femme doit éviter de parler des siennes. — Sont
+                     dans la vie ce qu’il y a de plus important. — Tout est là.</def>
+               </entry>
+               <entry>
+                  <form>Airain.</form>
+                  <def> Métal de l’antiquité.</def>
+               </entry>
+               <entry>
+                  <form>Albâtre.</form>
+                  <def>Sert à décrire les plus belles parties du corps de la femme.</def>
+               </entry>
+               <entry>
+                  <form>Allemands.</form>
+                  <def>Peuple de rêveurs (vieux).</def>
+               </entry>
+               <entry>
+                  <form>Ange.</form>
+                  <def> Fait bien en amour et en littérature.</def>
+               </entry>
+               <entry>
+                  <form>Argent.</form>
+                  <def> Cause de tout le mal. — Dire: <q><foreign xml:lang="lat">Auri sacra
+                           fames</foreign></q></def>
+                  <!--                Voir les différences entre emph, hi, etc, ds la partie  "3.3.2.2 Emphatic Words and Phrases" des guidelines
+                     Ici, choix de l'element foreign décrit dans la partie 3.3.2.1
+-->
+               </entry>
+               <entry>
+                  <form>Architectes.</form>
+                  <def>Tous imbéciles. — Oublient toujours l’escalier des maisons.</def>
+               </entry>
+               <entry>
+                  <form>Architecture.</form>
+                  <def> Il n’y a que quatre ordres d’architecture. — Bien entendu qu’on ne compte
+                     pas l’égyptien, le cyclopéen, l’assyrien, l’indien, le chinois, gothique,
+                     roman, etc.</def>
+               </entry>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

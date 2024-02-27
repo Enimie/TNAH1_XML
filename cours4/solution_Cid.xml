@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <castList>
+            <head>ACTEURS</head>
+            <castItem>
+               <role>DON FERNAND</role>
+               <roleDesc>premier roi de Castille</roleDesc></castItem>
+            <castItem>
+               <role>DONA URRAQUE</role>
+               <roleDesc>infante de Castille</roleDesc>
+            </castItem>
+            <castItem><role>DON DIÈGUE</role>
+               <roleDesc>père de don Rodrigue</roleDesc>
+            </castItem>
+            <castItem>
+               <role>DON GOMÈS</role>
+               <roleDesc>comte de Gormas, père de Chimène</roleDesc>
+            </castItem>
+            <castItem><role>DON RODRIGUE</role>
+               <roleDesc>amant de Chimène</roleDesc></castItem>
+            <castItem><role>DON SANCHE</role>
+               <roleDesc>amoureux de Chimène</roleDesc></castItem>
+            <castGroup rend="braced">
+               <castItem><role>DON ARIA</role></castItem>
+               <castItem><role>DON ALONSE</role></castItem>
+               <roleDesc>gentilshommes castillans</roleDesc>
+            </castGroup>
+            <castItem><role>CHIMÈNE</role><roleDesc>fille de don Gomès</roleDesc></castItem>
+            <castItem>
+               <role>LÉONOR</role>
+               <roleDesc>gouvernante de l’Infante</roleDesc></castItem>
+            <castItem>
+               <role>ELVIRE</role>
+               <roleDesc>gouvernante de Chimène</roleDesc></castItem>
+            <castItem> Un Page de l’Infante</castItem>
+         </castList>
+      </front>
+      <body>
+         <sp>
+            <speaker>Don Diègue</speaker>
+            <l>Ô rage! ô désespoir! ô vieillesse ennemie!</l>
+         </sp>
+      </body>
+   </text>
+</TEI>
