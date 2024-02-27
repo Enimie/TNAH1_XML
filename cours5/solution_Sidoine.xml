@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C">Madrid, Biblioteca Nacional de España, F 150, X/XI s.</witness>
+               <witness xml:id="F">Paris, Bibiliotèque nationale de France, Latin 9951, XII s. </witness>
+               <witness xml:id="P">Paris, Bibiliotèque nationale de France, Latin 2781, X/XI
+                  s.</witness>
+               <witness xml:id="T"> Florence, Biblioteca Medicea Laurenziana, plut. 45.23 </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><app>
+               <lem wit="#F #T">Ad Ecdicium sororium suum</lem>
+               <rdg wit="#C">Aduersus clarum Ecdicium sororium suum </rdg>
+               <rdg wit="#P" type="omission"/>
+            </app></head>
+         <l> Natalis noster Nonas instare <app>
+               <lem wit="#C #F">Nouembres</lem>
+               <rdg wit="#P">nouembras</rdg>
+               <rdg wit="#T">decembres</rdg>
+            </app>
+         </l>
+         <l>admonet : occurras non rogo, sed iubeo.</l>
+         <l> Sit tecum coniunx, duo nunc properate ; sed illud </l>
+         <l>post annum optamus tertius ut uenias.</l>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,33 @@
+#Source: Sidoine APollinaire, Tome 1, Poèmes, texte étanli et traduit par André Loyen, Paris, Les Belles Lettres,  1961
+#La côte de C est rétablie à partir de l'article de F. Dolveck, The manuscrit tradition of Sidonius, https://edinburghuniversitypress.com/pub/media/resources/9781474461702_The_Edinburgh_Companion_to_Sidonius_-_Chapter_16.pdf, p. 481 n.6
+
+----
+Liste des témoins: 
+
+C = Madrid, Biblioteca Nacional de España, F 150, X/XI s.
+F = Paris, Bibiliotèque nationale de France, Latin 9951, XII s.
+P = Paris, Bibiliotèque nationale de France, Latin 2781, X/XI s.
+T = Florence,  Biblioteca Medicea Laurenziana, plut. 45.23 
+
+----
+Texte:
+
+Ad Ecdicium sororium suum 	
+
+Natalis noster Nonas instare Nouembres
+     admonet : occurras non rogo, sed iubeo.
+Sit tecum coniunx, duo nunc properate ; sed illud
+     post annum optamus tertius ut uenias.
+
+
+---- 
+Variantes dans le texte:
+
+nouembres CF : nouembras P decembres T
+
+----
+Variantes du titre
+
+Aduersus clarum Ecdicium sororium suum  C
+Ad Ecdicium sororium suum FT
+omission P
