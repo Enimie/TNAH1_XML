@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapitre" xml:id="I">
+            <head> Chapitre premier </head>
+            <div2 type="paragraphe" xml:id="I1">
+               <head> Divers moyens mènent à même fin. </head>
+               <p xml:id="I1a">La soumission vous concilie d’ordinaire ceux que vous avez offensés
+                  ; parfois une attitude résolue produit le même résultat. — La façon la plus
+                  ordinaire d’attendrir les cœurs de ceux que nous avons offensés, quand, leur
+                  vengeance en main, nous sommes à leur merci, c’est de les émouvoir par notre
+                  soumission, en leur inspirant commisération et pitié ; toutefois la bravoure, la
+                  constance et la résolution, qui sont des moyens tout contraires, ont quelquefois
+                  produit le même résultat.</p>
+               <p xml:id="I1b">
+                  <persName xml:id="edouard">Edouard, prince de <placeName>Galles</placeName></persName>, celui-là même
+                  qui, si longtemps, fut régent de notre province de <placeName>Guyenne</placeName>,
+                  personnage dont les actes et la fortune ont maintes fois témoigné de beaucoup de
+                  grandeur d’âme, s’étant emparé de vive force de <placeName>Limoges</placeName>,
+                  avait ordonné le massacre de ses habitants qui l’avaient gravement offensé. Il
+                  cheminait à travers la ville, et les cris de ceux, hommes, femmes et enfants,
+                  ainsi voués à la mort, qui, prosternés à ses pieds, imploraient merci, n’avaient
+                  pu attendrir son âme ; quand s’offrirent à sa vue trois gentilshommes français,
+                  qui, avec une hardiesse incroyable, tenaient tête, à eux seuls, à son armée
+                  victorieuse. Un tel courage lui inspira une considération et un respect qui
+                  calmèrent subitement sa colère ; sur-le-champ il leur fit grâce, et cette grâce,
+                  il l’étendit à tous les autres habitants de la ville.</p>
+               <p xml:id="I1c"><persName xml:id="scandeberg">Scanderberg, prince
+                  d’<placeName>Épire</placeName></persName>, poursuivait avec l’intention de le tuer, un de ses soldats
+                  ; celui-ci, après avoir essayé en vain de l’apaiser par des protestations de
+                  toutes sortes et les plus humbles supplications, se résolut, en désespoir de
+                  cause, à l’attendre l’épée à la main. Cet acte de résolution arrêta net
+                  l’exaspération de son maître qui, en le voyant prendre un si honorable parti, lui
+                  fit grâce. Ce fait est susceptible d’être interprété autrement que je ne le fais,
+                  mais par ceux-là seulement qui ignorent la force prodigieuse et le courage dont ce
+                  prince était doué. </p>
+               <p xml:id="I1d"><persName xml:id="conrad3">L’empereur Conrad III</persName>,
+                  assiégeant <persName xml:id="guelphe">Guelphe, duc de <placeName>Bavière</placeName></persName>, n’avait
+                  consenti à ne laisser sortir de la ville que les femmes des gentilshommes qui s’y
+                  trouvaient enfermées avec son ennemi, s’engageant à respecter leur honneur, mais
+                  ne leur accordant de sortir qu’à pied, en n’emportant que ce qu’elles pourraient
+                  porter elles-mêmes ; et il s’était refusé à adoucir ces conditions, quelques
+                  autres satisfactions qu’on lui offrît, si humiliantes qu’elles fussent. N’écoutant
+                  que leur grand cœur, ces femmes s’avisèrent alors de charger sur leurs épaules
+                  leurs maris, leurs enfants et le duc lui-même. L’empereur fut tellement saisi de
+                  cette touchante marque de courage, qu’il en pleura d’attendrissement ; la haine
+                  mortelle qu’il avait vouée au duc, dont il voulait la perte, en devint moins
+                  ardente ; et, à partir de ce moment, il le traita lui et les siens avec
+                  humanité.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>
