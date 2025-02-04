@@ -8,11 +8,10 @@ Utiliser Markdown: exercice
 Deux paragraphes de lorem impsum
 
 Lorem ipsum amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Iaculis; urna id volutpat lacus laoreet. Cras pulvinar mattis nunc sed. Nullam vehicula ipsum a arcu. Elementum pulvinar etiam non quam. Hendrerit dolor magna eget est lorem ipsum. Auctor eu augue ut lectus arcu bibendum at varius. At tellus at urna condimentum mattis pellentesque. Porta lorem mollis aliquam ut porttitor leo. Eu scelerisque felis imperdiet proin fermentum leo vel. Dui id ornare arcu odio ut sem. Proin nibh nisl condimentum id venenatis a condimentum vitae. Sit amet risus nullam eget felis eget nunc lobortis. Est sit amet facilisis magna etiam tempor orci. Vitae ultricies leo integer malesuada nunc vel risus. Tempor nec feugiat nisl pretium fusce id.Id neque aliquam vestibulum morbi blandit cursus risus at ultrices. Amet est placerat in egestas erat imperdiet sed. Donec enim diam vulputate ut pharetra sit amet aliquam id. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. 
-
-
 Dignissim enim sit amet venenatis. Turpis egestas maecenas pharetra convallis posuere morbi. Nunc sed augue lacus viverra vitae congue eu. Felis eget velit aliquet sagittis id consectetur purus. Cursus euismod quis viverra nibh cras. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Facilisis sed odio morbi quis commodo odio aenean sed. Nunc sed velit dignissim sodales ut eu sem integer. Quam nulla porttitor massa id. Viverra mauris in aliquam sem fringilla ut. Commodo nulla facilisi nullam vehicula ipsum. Turpis massa tincidunt dui ut ornare lectus. Posuere morbi leo urna molestie at.
 
 Les types de liste
+
 Une liste de courses
 
 Légumes
@@ -25,7 +24,7 @@ Liste à cocher
 à faire
 déjà fait
 
-es citations de Victor Hugo
+Des citations de Victor Hugo
 
 Citation sur un seul paragraphe: 
 
