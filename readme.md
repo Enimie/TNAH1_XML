@@ -9,6 +9,16 @@ Pour la partie sur XML, ce cours est inspiré:
 - Du cours de Vincent Jolivet ([lien](https://github.com/architexte/cours-TEI))
 
 
+## Planning
+
+| Date | Horaires | Programme |
+| ---- | -------- | --------- |
+| 5 février 2025  | 11h-13h |Markdown et Pandoc|
+| 12 février 2025 | 11h-13h |XML: introduction| 
+| 19 février 2025 | 11h-13h |Schémas et modèles XML |
+| 12 mars 2025     | 11h-13h  | TEI |
+| 19 mars 2025     | 11h-13h  | TEI |
+| 26 mars 2025     | 11h-13h  | EAD (présentation) -- XPath et XSLT |
 
 ## Bibliographie et ressources 
 
