@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<baliseRacine>
+<racine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Sans_titre2.xsd">
     <!-- https://gallica.bnf.fr/ark:/12148/bpt6k1083760/f70.item -->
     <metadonnes>
-        <auteur>
-            <prenom>Guillaume</prenom>
-            <nom>Apollinaire</nom>
-        </auteur>
-        <titre>L’Adieu</titre>
+        <auteur> Guillaume Apollinaire </auteur>
     </metadonnes>
-
+    <titre>L’Adieu</titre>
     <poeme>
-        <vers number="1" rime="A">J’ai cueilli ce brin de bruyère</vers>
-        <vers number="2" rime="B">L’automne est morte souviens-t’en</vers>
-        <vers number="3" rime="C">Nous ne nous verrons plus sur terre</vers>
-        <vers number="4" rime="A">Odeur du temps brin de bruyère</vers>
-        <vers number="5" rime="B"> Et souviens-toi que je t’attends</vers>
+        <vers n="1" rime="A">J’ai cueilli ce brin de bruyère</vers>
+        <vers n="2" rime="B">L’automne est morte souviens-t’en</vers>
+        <vers n="3" rime="C">Nous ne nous verrons plus sur terre</vers>
+        <vers n="4" rime="A">Odeur du temps brin de bruyère</vers>
+        <vers n="5" rime="B"> Et souviens-toi que je t’attends</vers>
     </poeme>
-</baliseRacine>
+</racine>
