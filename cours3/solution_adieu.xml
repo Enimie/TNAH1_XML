@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<racine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="Sans_titre2.xsd">
+<racine>
     <!-- https://gallica.bnf.fr/ark:/12148/bpt6k1083760/f70.item -->
     <metadonnes>
         <auteur> Guillaume Apollinaire </auteur>
